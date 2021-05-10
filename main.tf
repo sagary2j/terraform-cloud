@@ -4,7 +4,7 @@ terraform {
     organization = "shaggys-Cabana"
 
     workspaces {
-      name = "tfc-guide-example"
+      name = "terraform-cloud"
     }
   }
 }
